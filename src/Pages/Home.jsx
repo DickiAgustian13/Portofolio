@@ -89,7 +89,7 @@ const WORDS = [
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/DickiAgustian13" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/Dickia279/" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/dickiagustian13/" },
   { icon: Instagram, link: "https://www.instagram.com/dicki_agustian13" }
 ];
 
