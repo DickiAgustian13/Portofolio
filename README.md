@@ -2,11 +2,9 @@
 
 Hello everyone\! 👋
 
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
+Let me introduce myself, I'm **Dicki Agustian**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🚀 Live Demo
-
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
 
 ## 🛠️ Tech Stack
 
@@ -35,8 +33,8 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
-cd Portofolio_V5
+git clone https://github.com/DickiAgustian13/Portofolio.git
+cd Portofolio
 ```
 
 ### 2\. Install Dependencies
@@ -232,16 +230,6 @@ If you encounter issues while running the project:
 ## 📝 Usage & Credits
 
 We would appreciate it if you decide to use this project. Please include proper credit when using it. Thank you\! 🙏
-
-## 📞 Contact
-
-If you have any questions or need help with the setup, feel free to reach out\!
-
-**Eki Zulfar Rachman**
-
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
-
 -----
 
 ⭐ If this project helped you, please consider giving it a star on GitHub\!
