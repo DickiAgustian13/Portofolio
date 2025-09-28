@@ -86,7 +86,7 @@ const WORDS = [
   "Cybersecurity"
 ];
 
-const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
+const TECH_STACK = ["PHP", "Javascript", "Python", "Java", "C++"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/DickiAgustian13" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/dickiagustian13/" },
